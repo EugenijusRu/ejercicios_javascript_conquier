@@ -1,6 +1,7 @@
 //Crear un programa que pida ingresar una edad y devuelva el equivalente de esas edad en años perro.
 
 let edadPerro = prompt("¿Qué edad tiene tu perro?");
+
 edadPerro = Number(edadPerro); // Convierte el string a número
 
 let edadHumano;
